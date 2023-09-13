@@ -3,6 +3,16 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Files BotCity
+bot_va
+resources
+docs
+bot_pdf.botproj
+build.bat
+build.ps1
+build.sh 
+
+
 # User-specific files
 *.rsuser
 *.suo
